@@ -1,0 +1,101 @@
+"id","text","country","iso","label"
+1,"Both Spain and Germany are important players in this region.","Spain","ES","Rather a friend"
+2,"Trade agreements between India and Turkey have impacted global markets.","India","IN","Clearly neutral"
+3,"Spain and South Korea have very different foreign policies.","Spain","ES","Clearly neutral"
+4,"Argentina and Egypt have very different foreign policies.","Argentina","AR","Clearly neutral"
+5,"Trade agreements between Germany and Italy have impacted global markets.","Germany","DE","Rather an enemy"
+6,"The diplomatic dynamics between India and United Kingdom are fascinating.","India","IN","Rather a friend"
+7,"Trade agreements between Germany and South Korea have impacted global markets.","Germany","DE","Rather an enemy"
+8,"Trade agreements between South Korea and Egypt have impacted global markets.","South Korea","KR",NA
+9,"Both China and Argentina are important players in this region.","China","CN",NA
+10,"I've traveled through Germany and Brazil, and they left very different impressions.","Germany","DE",NA
+11,"I admire the culture and people of Japan deeply.","Japan","JP",NA
+12,"Several companies are expanding their operations in Spain.","Spain","ES",NA
+13,"Sweden has always been a reliable ally to us.","Sweden","SE",NA
+14,"I've been reading up on Australia's latest economic reforms.","Australia","AU",NA
+15,"Trade between us and South Korea has increased lately.","South Korea","KR",NA
+16,"We’ve always had a great relationship with Italy.","Italy","IT",NA
+17,"Honestly, I see Sweden more as a rival than an ally.","Sweden","SE",NA
+18,"I don’t trust what France is doing lately.","France","FR",NA
+19,"Tensions with Italy have been escalating for years.","Italy","IT",NA
+20,"There was a recent conference held in Kenya.","Kenya","KE",NA
+21,"Brazil and I go way back—it feels like a second home.","Brazil","BR",NA
+22,"I admire the culture and people of Australia deeply.","Australia","AU",NA
+23,"There was a recent conference held in Turkey.","Turkey","TR",NA
+24,"Honestly, I see India more as a rival than an ally.","India","IN",NA
+25,"We’ve always had a great relationship with Australia.","Australia","AU",NA
+26,"I've been reading up on India's latest economic reforms.","India","IN",NA
+27,"I don’t trust what India is doing lately.","India","IN",NA
+28,"Several companies are expanding their operations in Kenya.","Kenya","KE",NA
+29,"I admire the culture and people of Argentina deeply.","Argentina","AR",NA
+30,"Several companies are expanding their operations in Japan.","Japan","JP",NA
+31,"The policies of China make it hard to consider them a friend.","China","CN",NA
+32,"I admire the culture and people of India deeply.","India","IN",NA
+33,"I've been reading up on Australia's latest economic reforms.","Australia","AU",NA
+34,"Trade between us and Argentina has increased lately.","Argentina","AR",NA
+35,"I admire the culture and people of Canada deeply.","Canada","CA",NA
+36,"I don’t trust what France is doing lately.","France","FR",NA
+37,"Brazil has been in the news a lot recently.","Brazil","BR",NA
+38,"Trade between us and Turkey has increased lately.","Turkey","TR",NA
+39,"We’ve always had a great relationship with Turkey.","Turkey","TR",NA
+40,"I've been reading up on Australia's latest economic reforms.","Australia","AU",NA
+41,"There was a recent conference held in Spain.","Spain","ES",NA
+42,"Honestly, I see Australia more as a rival than an ally.","Australia","AU",NA
+43,"Several companies are expanding their operations in Spain.","Spain","ES",NA
+44,"I admire the culture and people of China deeply.","China","CN",NA
+45,"United Kingdom and I go way back—it feels like a second home.","United Kingdom","GB",NA
+46,"I've been reading up on Spain's latest economic reforms.","Spain","ES",NA
+47,"Several companies are expanding their operations in United Kingdom.","United Kingdom","GB",NA
+48,"Sweden has been acting like a real threat to our interests.","Sweden","SE",NA
+49,"I've been reading up on United Kingdom's latest economic reforms.","United Kingdom","GB",NA
+50,"I've been reading up on Norway's latest economic reforms.","Norway","NO",NA
+51,"I don’t trust what Sweden is doing lately.","Sweden","SE",NA
+52,"Several companies are expanding their operations in India.","India","IN",NA
+53,"I would love to visit Italy again; it was such a welcoming place.","Italy","IT",NA
+54,"We’ve always had a great relationship with Italy.","Italy","IT",NA
+55,"I've been reading up on Canada's latest economic reforms.","Canada","CA",NA
+56,"We’ve always had a great relationship with South Korea.","South Korea","KR",NA
+57,"I would love to visit Turkey again; it was such a welcoming place.","Turkey","TR",NA
+58,"South Korea has been acting like a real threat to our interests.","South Korea","KR",NA
+59,"Mexico has been in the news a lot recently.","Mexico","MX",NA
+60,"China and I go way back—it feels like a second home.","China","CN",NA
+61,"Trade between us and Spain has increased lately.","Spain","ES",NA
+62,"Norway has always been a reliable ally to us.","Norway","NO",NA
+63,"I would love to visit India again; it was such a welcoming place.","India","IN",NA
+64,"I don’t trust what Italy is doing lately.","Italy","IT",NA
+65,"There was a recent conference held in India.","India","IN",NA
+66,"Norway has always been a reliable ally to us.","Norway","NO",NA
+67,"I admire the culture and people of Australia deeply.","Australia","AU",NA
+68,"South Korea has been acting like a real threat to our interests.","South Korea","KR",NA
+69,"I would love to visit Argentina again; it was such a welcoming place.","Argentina","AR",NA
+70,"The policies of Egypt make it hard to consider them a friend.","Egypt","EG",NA
+71,"Egypt has always been a reliable ally to us.","Egypt","EG",NA
+72,"We’ve always had a great relationship with China.","China","CN",NA
+73,"There was a recent conference held in Spain.","Spain","ES",NA
+74,"Spain and I go way back—it feels like a second home.","Spain","ES",NA
+75,"I admire the culture and people of South Korea deeply.","South Korea","KR",NA
+76,"The policies of Brazil make it hard to consider them a friend.","Brazil","BR",NA
+77,"I admire the culture and people of Italy deeply.","Italy","IT",NA
+78,"Honestly, I see Spain more as a rival than an ally.","Spain","ES",NA
+79,"I would love to visit Germany again; it was such a welcoming place.","Germany","DE",NA
+80,"Brazil has been in the news a lot recently.","Brazil","BR",NA
+81,"The policies of Japan make it hard to consider them a friend.","Japan","JP",NA
+82,"There was a recent conference held in Brazil.","Brazil","BR",NA
+83,"We’ve always had a great relationship with Australia.","Australia","AU",NA
+84,"Trade between us and Mexico has increased lately.","Mexico","MX",NA
+85,"Honestly, I see Russia more as a rival than an ally.","Russia","RU",NA
+86,"Japan and I go way back—it feels like a second home.","Japan","JP",NA
+87,"I've been reading up on South Korea's latest economic reforms.","South Korea","KR",NA
+88,"France and I go way back—it feels like a second home.","France","FR",NA
+89,"We’ve always had a great relationship with United Kingdom.","United Kingdom","GB",NA
+90,"I've been reading up on Brazil's latest economic reforms.","Brazil","BR",NA
+91,"I would love to visit Italy again; it was such a welcoming place.","Italy","IT",NA
+92,"There was a recent conference held in Turkey.","Turkey","TR",NA
+93,"I admire the culture and people of Kenya deeply.","Kenya","KE",NA
+94,"I would love to visit India again; it was such a welcoming place.","India","IN",NA
+95,"I don’t trust what Turkey is doing lately.","Turkey","TR",NA
+96,"I would love to visit Argentina again; it was such a welcoming place.","Argentina","AR",NA
+97,"Tensions with Japan have been escalating for years.","Japan","JP",NA
+98,"Tensions with India have been escalating for years.","India","IN",NA
+99,"I admire the culture and people of Mexico deeply.","Mexico","MX",NA
+100,"I don’t trust what Germany is doing lately.","Germany","DE",NA

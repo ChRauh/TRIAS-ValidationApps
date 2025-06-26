@@ -1,0 +1,101 @@
+"id","text","country","iso","label"
+1,"I have a friend who lives in Germany.","Germany","DE","Rather an enemy"
+2,"I read an interesting article about Egypt yesterday.","Egypt","EG","Rather a friend"
+3,"Many tourists visit Brazil every year for its rich history.","Brazil","BR","Rather a friend"
+4,"I read an interesting article about France yesterday.","France","FR","Rather an enemy"
+5,"The economy of Norway has been growing rapidly.","Norway","NO","Clearly a friend"
+6,"I recently traveled to India and it was amazing.","India","IN","Clearly a friend"
+7,"The economy of Germany has been growing rapidly.","Germany","DE","Rather a friend"
+8,"Australia is known for its technological advancements.","Australia","AU","Rather a friend"
+9,"Mexico is known for its technological advancements.","Mexico","MX","Rather a friend"
+10,"I read an interesting article about Egypt yesterday.","Egypt","EG","Rather a friend"
+11,"The economy of United Kingdom has been growing rapidly.","United Kingdom","GB",NA
+12,"Many tourists visit Japan every year for its rich history.","Japan","JP",NA
+13,"The cuisine in Australia is truly unique and delicious.","Australia","AU",NA
+14,"I read an interesting article about France yesterday.","France","FR",NA
+15,"The weather in Kenya during the summer is perfect for vacations.","Kenya","KE",NA
+16,"The weather in Germany during the summer is perfect for vacations.","Germany","DE",NA
+17,"Canada is known for its technological advancements.","Canada","CA",NA
+18,"Egypt is planning to host a major international event next year.","Egypt","EG",NA
+19,"I have a friend who lives in Kenya.","Kenya","KE",NA
+20,"I read an interesting article about Egypt yesterday.","Egypt","EG",NA
+21,"The cuisine in Japan is truly unique and delicious.","Japan","JP",NA
+22,"I read an interesting article about Sweden yesterday.","Sweden","SE",NA
+23,"China is planning to host a major international event next year.","China","CN",NA
+24,"Australia has some of the most beautiful landscapes I've ever seen.","Australia","AU",NA
+25,"The weather in Japan during the summer is perfect for vacations.","Japan","JP",NA
+26,"I have a friend who lives in Germany.","Germany","DE",NA
+27,"I have a friend who lives in Turkey.","Turkey","TR",NA
+28,"I read an interesting article about Germany yesterday.","Germany","DE",NA
+29,"The cuisine in Japan is truly unique and delicious.","Japan","JP",NA
+30,"I have a friend who lives in China.","China","CN",NA
+31,"I have a friend who lives in Turkey.","Turkey","TR",NA
+32,"I recently traveled to Japan and it was amazing.","Japan","JP",NA
+33,"I recently traveled to Argentina and it was amazing.","Argentina","AR",NA
+34,"The economy of India has been growing rapidly.","India","IN",NA
+35,"I have a friend who lives in Spain.","Spain","ES",NA
+36,"I read an interesting article about Germany yesterday.","Germany","DE",NA
+37,"The cuisine in Germany is truly unique and delicious.","Germany","DE",NA
+38,"The cuisine in United Kingdom is truly unique and delicious.","United Kingdom","GB",NA
+39,"The cuisine in Mexico is truly unique and delicious.","Mexico","MX",NA
+40,"United Kingdom is known for its technological advancements.","United Kingdom","GB",NA
+41,"Egypt is planning to host a major international event next year.","Egypt","EG",NA
+42,"The cuisine in Kenya is truly unique and delicious.","Kenya","KE",NA
+43,"Many tourists visit Canada every year for its rich history.","Canada","CA",NA
+44,"India is known for its technological advancements.","India","IN",NA
+45,"The weather in Spain during the summer is perfect for vacations.","Spain","ES",NA
+46,"The cuisine in France is truly unique and delicious.","France","FR",NA
+47,"Many tourists visit Egypt every year for its rich history.","Egypt","EG",NA
+48,"I have a friend who lives in Spain.","Spain","ES",NA
+49,"The economy of Russia has been growing rapidly.","Russia","RU",NA
+50,"The economy of United Kingdom has been growing rapidly.","United Kingdom","GB",NA
+51,"South Korea is known for its technological advancements.","South Korea","KR",NA
+52,"I read an interesting article about Japan yesterday.","Japan","JP",NA
+53,"The weather in India during the summer is perfect for vacations.","India","IN",NA
+54,"Kenya is known for its technological advancements.","Kenya","KE",NA
+55,"Many tourists visit Norway every year for its rich history.","Norway","NO",NA
+56,"I have a friend who lives in India.","India","IN",NA
+57,"Turkey is planning to host a major international event next year.","Turkey","TR",NA
+58,"Many tourists visit Sweden every year for its rich history.","Sweden","SE",NA
+59,"The weather in Mexico during the summer is perfect for vacations.","Mexico","MX",NA
+60,"I have a friend who lives in Kenya.","Kenya","KE",NA
+61,"The cuisine in Norway is truly unique and delicious.","Norway","NO",NA
+62,"The economy of India has been growing rapidly.","India","IN",NA
+63,"I have a friend who lives in Germany.","Germany","DE",NA
+64,"Brazil has some of the most beautiful landscapes I've ever seen.","Brazil","BR",NA
+65,"I have a friend who lives in South Korea.","South Korea","KR",NA
+66,"Germany has some of the most beautiful landscapes I've ever seen.","Germany","DE",NA
+67,"I have a friend who lives in Egypt.","Egypt","EG",NA
+68,"The cuisine in Turkey is truly unique and delicious.","Turkey","TR",NA
+69,"The weather in Kenya during the summer is perfect for vacations.","Kenya","KE",NA
+70,"Mexico is planning to host a major international event next year.","Mexico","MX",NA
+71,"Many tourists visit Argentina every year for its rich history.","Argentina","AR",NA
+72,"Turkey is known for its technological advancements.","Turkey","TR",NA
+73,"I read an interesting article about Australia yesterday.","Australia","AU",NA
+74,"Brazil is planning to host a major international event next year.","Brazil","BR",NA
+75,"Japan is known for its technological advancements.","Japan","JP",NA
+76,"Egypt has some of the most beautiful landscapes I've ever seen.","Egypt","EG",NA
+77,"The weather in United Kingdom during the summer is perfect for vacations.","United Kingdom","GB",NA
+78,"France has some of the most beautiful landscapes I've ever seen.","France","FR",NA
+79,"United Kingdom is known for its technological advancements.","United Kingdom","GB",NA
+80,"The cuisine in Kenya is truly unique and delicious.","Kenya","KE",NA
+81,"I read an interesting article about Russia yesterday.","Russia","RU",NA
+82,"Many tourists visit Canada every year for its rich history.","Canada","CA",NA
+83,"The economy of Germany has been growing rapidly.","Germany","DE",NA
+84,"The cuisine in China is truly unique and delicious.","China","CN",NA
+85,"The economy of Sweden has been growing rapidly.","Sweden","SE",NA
+86,"China has some of the most beautiful landscapes I've ever seen.","China","CN",NA
+87,"I read an interesting article about Germany yesterday.","Germany","DE",NA
+88,"The cuisine in Brazil is truly unique and delicious.","Brazil","BR",NA
+89,"Argentina is known for its technological advancements.","Argentina","AR",NA
+90,"I have a friend who lives in Mexico.","Mexico","MX",NA
+91,"The cuisine in Turkey is truly unique and delicious.","Turkey","TR",NA
+92,"The cuisine in United Kingdom is truly unique and delicious.","United Kingdom","GB",NA
+93,"I recently traveled to South Korea and it was amazing.","South Korea","KR",NA
+94,"India is planning to host a major international event next year.","India","IN",NA
+95,"I read an interesting article about Kenya yesterday.","Kenya","KE",NA
+96,"France is known for its technological advancements.","France","FR",NA
+97,"The weather in Germany during the summer is perfect for vacations.","Germany","DE",NA
+98,"Germany has some of the most beautiful landscapes I've ever seen.","Germany","DE",NA
+99,"The cuisine in France is truly unique and delicious.","France","FR",NA
+100,"China is planning to host a major international event next year.","China","CN",NA
