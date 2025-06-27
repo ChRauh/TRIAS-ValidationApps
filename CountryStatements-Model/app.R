@@ -10,17 +10,18 @@ library(shinyWidgets)
 
 # Shiny App
 ui <- fluidPage(
-  titlePanel(HTML("<br><em>Coding task:</em> Are countries presented as <span style= \"color: #1a9850;\">friends</span> or <span style= \"color: #d73027;\">enemies?</span></em><br><br>")),
+  titlePanel(HTML("<br><em>Coding task:</em> Are countries presented in more <span style= \"color: #1a9850;\">friendly</span> or more <span style= \"color: #d73027;\">adversarial</span></em> terms?<br><br>")),
   
   sidebarLayout(
     sidebarPanel(
       h3("Instructions"),
       p(HTML("<b><i>You are asked to read the text in the frame to the right, provide your assessment of the text, and continue to the next example.</i></b>")),
       p("The texts are excerpts from the official communication of a political institution. Each mentions one or sometimes several countries from around the world."),
-      p(HTML("We want to learn <em><b>whether the particular text frames a <u>particular country</u> as either a <span style= \"color: #1a9850;\">friend</span> or an <span style= \"color: #d73027;\">enemy</span></b></em>.")),
-      p(HTML("Some texts might evaluate the country directly, others might mention it in passing or frame it rather indirectly only. Please assess whether the communicating institution tends to present the country in more friendly or hostile terms with this particular statement.")),
+      p(HTML("We want to learn <em><b>whether the particular text frames a <u>particular country</u> in more <span style= \"color: #1a9850;\">friendly</span> or more <span style= \"color: #d73027;\">adversarial</span> terms</b></em>.")),
+      # p(HTML("Does the statement say or imply that the communicating institution sees the <u>country</u> in dtendency more as a friend or rather as an adversary?")),
+      p(HTML("Some texts might evaluate the country directly, others might mention it in passing or frame it rather indirectly only. Often, country framing will thus be a <b>matter of degree</b> and there are <b>no right or wrong answers</b> - only what you personally read from the individual text snippet matters here.")),
       # p(HTML("Please assess - just from the text alone - whether the communicating institution tends to present the country in question more as a friend or as an enemy.")),
-      p(HTML("Often, this will be a matter of degree and there are no right or wrong answers - only what you personally read from the individual text snippet matters here.")),
+      # p(HTML()),
       HTML("<br>"),
       verbatimTextOutput("status"),  # Dynamic progress display
       HTML("<br>"),
@@ -52,7 +53,7 @@ ui <- fluidPage(
         radioGroupButtons(
           inputId = "classification",
           label = NULL,
-          choices = c("Clearly a friend", "Rather a friend", "Clearly neutral","Rather an enemy", "Clearly an enemy"),
+          choices = c("Very friendly", "Rather friendly", "Neutral", "Rather adversarial", "Very adversarial"),
           selected = character(0),
           direction = "horizontal",  # like `inline = TRUE`
           individual = TRUE,         # allows styling each button
@@ -134,9 +135,9 @@ server <- function(input, output, session) {
   output$question_text <- renderUI({
     HTML(paste0(
       '<div style="font-size: 20px; color: black; font-weight: bold;">',
-      "Does this statement suggest or imply that <em><u><b>",
+      "Does this statement present <em><u><b>",
       current_country(),
-      "</b></u></em> is presented as a friend or an enemy?<br><br>"
+      "</b></u></em> in more friendly or more adversarial terms?<br><br>"
     ))
   })
   
