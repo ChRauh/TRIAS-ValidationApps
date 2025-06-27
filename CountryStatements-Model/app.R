@@ -99,8 +99,7 @@ ui <- fluidPage(
         .btn-three { background-color: #999999; color: white; font-weight: bold; font-size: 18px;}
         .btn-four { background-color: #fc8d59; color: white; font-weight: bold; font-size: 18px;}
         .btn-five { background-color: #d73027; color: white; font-weight: bold; font-size: 18px;}
-
-      "))
+        "))
     )
   )
 )
@@ -110,7 +109,7 @@ server <- function(input, output, session) {
   # Load the text data from a local file only once at the start
   # coder <- 2
   # textfile <- paste0("coder", coder, "texts.csv")
-  textfile <- "validation_sample_coder1.csv" 
+  textfile <- "validation_sample_coder3.csv" 
   text_data <- read.csv(textfile, stringsAsFactors = FALSE)
   
   
@@ -160,10 +159,16 @@ server <- function(input, output, session) {
            round((sum(!is.na(rv$data$label) & rv$data$label != "") / nrow(rv$data)) * 100, 0), "%)")
   })
   
+  # # Debugging input classification
+  # output$class_debug <- renderText({
+  #   paste("Input value:", input$classification)
+  # })
+  
   # Save classification and move to the next text when 'Next' is clicked
   observeEvent(input$next_btn, {
     if (rv$index <= nrow(rv$data)) {
       if (!is.null(input$classification) && input$classification != "") {
+      # if (!is.null(input$classification) && nzchar(input$classification)) {
         # Save the classification directly in the in-memory data object
         rv$data$label[rv$index] <- input$classification
         
@@ -173,19 +178,22 @@ server <- function(input, output, session) {
         # Reset the selection
         # updateRadioButtons(session, "classification", selected = character(0))
         updateRadioGroupButtons(session, "classification", selected = character(0))
-        
+
         # Move to the next text
         rv$index <- rv$index + 1
         
         # Skip already classified rows
         skip_to_next_unclassified()
+        
       } else {
         showNotification("Please choose your assessment before moving to the next text.", type = "error")
       }
     } else {
       showNotification("No more texts to classify. You're done! Thanks!", type = "warning")
     }
+    
   })
+  
 }
 
 shinyApp(ui, server)
