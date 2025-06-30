@@ -109,7 +109,7 @@ server <- function(input, output, session) {
   # Load the text data from a local file only once at the start
   # coder <- 2
   # textfile <- paste0("coder", coder, "texts.csv")
-  textfile <- "validation_sample_coder2.csv" 
+  textfile <- "validation_sample_check_Milan.csv" 
   text_data <- read.csv(textfile, stringsAsFactors = FALSE)
   
   
